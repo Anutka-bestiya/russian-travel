@@ -3,6 +3,7 @@
   min-width: 100vw;
   max-width: 1400px;
   margin: 0 auto;
-  /* выше для экранов больше 1600px отцентрировали весь контент */
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  /* выше для экранов больше 1400px отцентрировали весь контент */
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
 }
