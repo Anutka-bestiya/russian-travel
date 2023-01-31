@@ -1,14 +1,21 @@
 .lead {
-  width: 90%;
+  margin-left: 148px;
+  margin-right: 148px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 @media screen and (max-width: 1024px) {
   .lead {
-    width: 75%;
+    margin-left: 48px;
+    margin-right: 48px;
   }
 }
 @media screen and (max-width: 768px) {
   .lead {
-    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
