@@ -1,0 +1,7 @@
+.lead__image {
+  background-image: url(../../../images/lead__image.jpg);
+  width: 984px;
+  max-width: 100%;
+  background-size: cover;
+  background-position: center;
+}
