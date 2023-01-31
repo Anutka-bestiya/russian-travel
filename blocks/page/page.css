@@ -1,0 +1,8 @@
+.page {
+  background-color: #2a2c2f;
+  min-width: 100vw;
+  max-width: 1400px;
+  margin: 0 auto;
+  /* выше для экранов больше 1600px отцентрировали весь контент */
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
