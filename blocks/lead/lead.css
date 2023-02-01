@@ -1,13 +1,14 @@
 .lead {
   margin-left: 148px;
   margin-right: 148px;
-  box-sizing: border-box;
+
   display: flex;
   align-items: center;
   flex-direction: column;
+  max-width: 984px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1200px) {
   .lead {
     margin-left: 48px;
     margin-right: 48px;
