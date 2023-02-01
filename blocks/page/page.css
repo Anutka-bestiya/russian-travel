@@ -1,7 +1,6 @@
 .page {
   background-color: #2a2c2f;
   max-width: 1480px;
-  min-width: 300px;
   margin: 0 auto;
   /* выше для экранов больше 1400px отцентрировали весь контент */
   font-family: 'Inter', Arial, sans-serif;

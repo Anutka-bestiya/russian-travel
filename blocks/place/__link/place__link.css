@@ -8,3 +8,6 @@
   color: #fff;
   text-decoration-line: underline;
 }
+.place__link:hover {
+  opacity: 0.8;
+}
