@@ -1,6 +1,9 @@
 .lead {
-  margin-left: 148px;
-  margin-right: 148px;
+  margin: 0 auto;
+  max-width: 1280px;
+  box-sizing: border-box;
+  padding-left: 148px;
+  padding-right: 148px;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -8,13 +11,13 @@
 
 @media screen and (max-width: 1200px) {
   .lead {
-    margin-left: 48px;
-    margin-right: 48px;
+    padding-left: 48px;
+    padding-right: 48px;
   }
 }
 @media screen and (max-width: 768px) {
   .lead {
-    margin-left: 0;
-    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
