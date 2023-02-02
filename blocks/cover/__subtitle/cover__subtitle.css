@@ -1,6 +1,6 @@
 .cover__subtitle {
-  position: absolute;
-  z-index: 1;
+  position: relative;
+  z-index: 2;
   margin: 0 auto;
   padding: 0;
   text-align: center;
@@ -8,8 +8,7 @@
   font-size: 18px;
   line-height: 22px;
   color: #fff;
-  top: 65%;
-  left: 0;
+  margin-top: 32px;
   padding-left: 30%;
   padding-right: 30%;
 }
@@ -32,6 +31,7 @@
   .cover__subtitle {
     font-size: 14px;
     line-height: 16px;
+    margin-top: 16px;
     padding-left: 5%;
     padding-right: 5%;
   }

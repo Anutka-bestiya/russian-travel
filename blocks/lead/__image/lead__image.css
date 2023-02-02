@@ -1,7 +1,6 @@
 .lead__image {
-  background-image: url(../../../images/lead__image.jpg);
+  max-width: 984px;
   width: 100%;
-  padding-top: 62.5%;
-  background-size: cover;
-  background-position: center;
+  height: auto;
+  display: block;
 }
