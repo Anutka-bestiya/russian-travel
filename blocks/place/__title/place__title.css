@@ -5,6 +5,9 @@
   font-size: 72px;
   line-height: 76px;
   color: #fff;
+  align-items: end;
+  box-sizing: border-box;
+  padding-right: 1%;
 }
 @media screen and (max-width: 768px) {
   .place__title {

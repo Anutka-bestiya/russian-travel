@@ -9,8 +9,9 @@
   color: #fff;
   margin-top: 32px;
   margin-bottom: 64px;
+  width: 640px;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1080px) {
   .lead__subtitle {
     margin-bottom: 56px;
   }
@@ -19,12 +20,14 @@
   .lead__subtitle {
     font-size: 16px;
     line-height: 20px;
+    width: 80%;
   }
 }
 @media screen and (max-width: 425px) {
   .lead__subtitle {
     margin-top: 16px;
     margin-bottom: 40px;
+    width: 288px;
   }
 }
 @media screen and (max-width: 319px) {
